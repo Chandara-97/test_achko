@@ -3,7 +3,6 @@
 @section('content')
 @include('layout.navbar')
 @include('layout.background_carousel')
-@include('layout.style_css')
 <div class="container">
     <div class="row justify-content-center">
         <div class="col-md-8">
